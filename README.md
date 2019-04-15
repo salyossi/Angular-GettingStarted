@@ -1,3 +1,5 @@
+High this is Yossi and I'm starting angular curse, the date is 15/04/2019
+
 # Angular-Getting Started
 Materials for the ["Angular: Getting Started"](http://bit.ly/Angular-GettingStarted) course on Pluralsight.
 
